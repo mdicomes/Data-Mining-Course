@@ -22,15 +22,15 @@ Key skills: Outlier detection, pruning strategies, computational benchmarking, z
 
 Technologies Used
 
-Python 3
-NumPy — numerical computation and matrix operations
-Pandas — data loading, cleaning, and manipulation
-PyTorch — GPU-accelerated distance computation (HW3)
+Python 3,
+NumPy — numerical computation and matrix operations,
+Pandas — data loading, cleaning, and manipulation,
+PyTorch — GPU-accelerated distance computation (HW3),
 Jupyter Notebooks — development and documentation environment
 
 
 Course
 Data Mining — University of New Mexico
 
-Notes
+Notes -
 All implementations are built from scratch where specified by the assignment, without relying on high-level machine learning library abstractions. This was intentional to demonstrate understanding of the underlying algorithms.
